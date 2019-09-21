@@ -2,6 +2,9 @@
 ## Semester project - The Pendulum Paradox
 The Pendulum Paradox is Jazz Jackrabbit inspired platformer game for Android. It also utilizes multiplayer for 2 players via Google Play Game Service.
 
+## For details about implementation, architecture and requirements of the project refer to the corresponding 
+## documentation in the top level directory.
+
 ## The story
 The Android Andrea Falk travel through time when suddenly her time machine starts falling apart (because of improperly tightened screws of course) and then breaks which makes him stuck in the 16th century. The only way how to get back to the future is to gather the missing parts and repair the time machine. However, the world in 16th century is not a safe place. There are tons of hostile beings that try to ruin Andrea's plan. She needs to utilize all of his skills and effort in order to survive. There are also some rummors that Andrea's friend hologram Rune crashed nearby as well. Maybe they can join forces and help each other to succeed.
 
