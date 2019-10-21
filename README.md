@@ -2,7 +2,7 @@
 ## Semester project - The Pendulum Paradox
 The Pendulum Paradox is Jazz Jackrabbit inspired platformer game for Android. It also utilizes multiplayer for 2 players via Google Play Game Service.
 
-## For details about implementation, architecture and requirements of the project refer to the corresponding documentation in the top level directory.
+## For details about implementation, architecture and requirements of the project, refer to the corresponding documentation in the top level directory.
 
 ## Runnable apk
 download apk from https://www.dropbox.com/s/x9u40budy02kn74/ThePendulumParadox.apk?dl=0 and put on android device or run in android emulator to play the game. Only single player works at the moment.
